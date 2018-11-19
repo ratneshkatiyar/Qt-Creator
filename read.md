@@ -1,0 +1,1 @@
+Minimum lines needed to create a cmake list and start your cpp project in Qt Creator.
